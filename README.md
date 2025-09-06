@@ -3,7 +3,8 @@ This is a small python program that can be used to make an audio file from a PDF
 
 # Crisp Description:
 
-# PDF-TO-AUDIO convertor
+<h2>PDF-TO-AUDIO convertor</h2> 
+<p>
 • Converts PDF content into audio, allowing users to listen to documents while commuting or
 multitasking.
 <br>
@@ -12,3 +13,4 @@ screen reading.
 <br>
 • Implemented using Python libraries such as pyttsx3 for text-to-speech and PDFPlumber for
 extracting text from PDF files.
+</p>
